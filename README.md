@@ -2,7 +2,7 @@
 
 :computer: Looking for a job as Front-end developer.
 
-:books: I'm currently learning about React JS
+:books: I'm currently learning about ReactJS and NextJS
 
 
 ### Find me
